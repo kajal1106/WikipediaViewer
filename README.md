@@ -1,5 +1,5 @@
-<h1 align="center">Wikipedia Viewer</h1><br>
-<p align="center">This is one of the Front End Development projects using Vanilla JS for my personal practice.<br>
+## Wikipedia Viewer
+>This is one of the Front End Development projects using Vanilla JS for my personal practice.
 
 
 Live preview: <a href=" ">Wikipedia Viewer</a><br></p>
